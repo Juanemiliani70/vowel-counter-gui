@@ -14,5 +14,5 @@ This Python application provides a graphical interface to count vowels in real-t
 
 ## Screenshots
 
-![Imagen 1](imagenes_contador_vocales/imagen1.jpg)
-![Imagen 2](imagenes_contador_vocales/imagen2.jpg)
+![Imagen 1](imagenes_contador_vocales/imagen1.jpeg)
+![Imagen 2](imagenes_contador_vocales/imagen2.jpeg)
